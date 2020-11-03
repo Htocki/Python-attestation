@@ -1,7 +1,5 @@
 # Решить систему линейных уравнений методом Гаусса.
 
-import numpy
-
 def linearsolver(A, B):
   n = len(A)
   M = A
